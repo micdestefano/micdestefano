@@ -1,6 +1,4 @@
 # Welcome to my GitHub repositories 👋
-<img align="left" src="https://avatars.githubusercontent.com/u/31816591" alt="Michele De Stefano" style="margin: 20px; width: 200px;">
-
 Hi, I'm Michele De Stefano, an experienced data scientist and machine-learning/AI engineer.
 I graduated in _Telecommunications Engineering_ at _Politecnico di Milano_ in the first years of this century.
 Since then I worked in different fields: **S**ynthetic **A**perture **R**adar (SAR) image processing,
